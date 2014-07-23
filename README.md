@@ -1,4 +1,4 @@
 Learn-Git
 =========
 
-It's the first repository i cearte! thanks
+It's the first repository i create! thanks
