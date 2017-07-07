@@ -1,1 +1,10 @@
-<keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X" />
+<keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Graph.Layout.TreeLayouter">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+</keymap>
