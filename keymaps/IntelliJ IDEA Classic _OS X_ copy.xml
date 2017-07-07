@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="shift meta slash" />
     <keyboard-shortcut first-keystroke="meta alt slash" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
