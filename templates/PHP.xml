@@ -1,6 +1,13 @@
 <templateSet group="PHP">
   <template name="ejson" value="echo json_encode($VAR_VALUE$);exit;" description="输出json格式的数据" toReformat="false" toShortenFQNames="true">
     <variable name="VAR_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
   </template>
-  <template name="gsql" value="createCommand()-&gt;getRawsql();" description="输出sql" toReformat="false" toShortenFQNames="true" />
+  <template name="gsql" value="createCommand()-&gt;getRawsql();" description="输出sql" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
