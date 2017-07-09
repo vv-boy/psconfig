@@ -14,7 +14,7 @@
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="PHP Statement" value="true" />
+      <option name="PHP Class Member" value="true" />
     </context>
   </template>
 </templateSet>
