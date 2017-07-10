@@ -10,7 +10,7 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="acfun" value="public function action$NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="生成action函数" toReformat="false" toShortenFQNames="true">
+  <template name="afun" value="public function action$NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="生成action函数" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
