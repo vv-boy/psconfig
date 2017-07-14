@@ -8,6 +8,10 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoRelated">
+    <keyboard-shortcut first-keystroke="meta alt home" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="Graph.Layout.TreeLayouter">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
