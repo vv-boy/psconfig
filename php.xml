@@ -101,6 +101,9 @@
             <configuration_option name="ignore_repeated_errors" value="" />
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
+            <configuration_option name="imagick.locale_fix" value="0" />
+            <configuration_option name="imagick.progress_monitor" value="0" />
+            <configuration_option name="imagick.skip_version_check" value="0" />
             <configuration_option name="implicit_flush" value="1" />
             <configuration_option name="include_path" value=".:/usr/local/php5/lib/php" />
             <configuration_option name="input_encoding" value="" />
@@ -277,7 +280,7 @@
             <configuration_option name="phar.cache_list" value="" />
             <configuration_option name="phar.readonly" value="1" />
             <configuration_option name="phar.require_hash" value="1" />
-            <configuration_option name="post_max_size" value="8M" />
+            <configuration_option name="post_max_size" value="200M" />
             <configuration_option name="precision" value="14" />
             <configuration_option name="raphf.persistent_handle.limit" value="-1" />
             <configuration_option name="realpath_cache_size" value="16K" />
@@ -313,7 +316,7 @@
             <configuration_option name="session.name" value="PHPSESSID" />
             <configuration_option name="session.referer_check" value="" />
             <configuration_option name="session.save_handler" value="redis" />
-            <configuration_option name="session.save_path" value="tcp://127.0.0.1:6359" />
+            <configuration_option name="session.save_path" value="tcp://127.0.0.1:6379" />
             <configuration_option name="session.serialize_handler" value="php" />
             <configuration_option name="session.upload_progress.cleanup" value="1" />
             <configuration_option name="session.upload_progress.enabled" value="1" />
@@ -339,7 +342,7 @@
             <configuration_option name="tidy.default_config" value="" />
             <configuration_option name="track_errors" value="1" />
             <configuration_option name="unserialize_callback_func" value="" />
-            <configuration_option name="upload_max_filesize" value="2M" />
+            <configuration_option name="upload_max_filesize" value="20M" />
             <configuration_option name="upload_tmp_dir" value="" />
             <configuration_option name="url_rewriter.tags" value="a=href,area=href,frame=src,input=src,form=fakeentry" />
             <configuration_option name="user_agent" value="" />
@@ -454,6 +457,7 @@
             <extension name="http" />
             <extension name="iconv" />
             <extension name="igbinary" />
+            <extension name="imagick" />
             <extension name="imap" />
             <extension name="intl" />
             <extension name="json" />
