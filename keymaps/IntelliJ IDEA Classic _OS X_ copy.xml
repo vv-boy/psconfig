@@ -5,8 +5,12 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="meta f2" />
+  </action>
   <action id="ParameterInfo" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="Stop" />
 </keymap>
