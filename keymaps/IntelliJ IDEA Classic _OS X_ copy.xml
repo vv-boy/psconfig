@@ -5,10 +5,18 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="meta f2" />
   </action>
   <action id="ParameterInfo" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
