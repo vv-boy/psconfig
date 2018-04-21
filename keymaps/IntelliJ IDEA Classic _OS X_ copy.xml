@@ -17,7 +17,6 @@
     <keyboard-shortcut first-keystroke="meta f2" />
   </action>
   <action id="HideActiveWindow">
-    <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="ParameterInfo" />
