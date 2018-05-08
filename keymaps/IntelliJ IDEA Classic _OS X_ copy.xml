@@ -19,6 +19,10 @@
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift meta back_space" />
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
