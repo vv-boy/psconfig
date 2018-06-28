@@ -1,5 +1,5 @@
 <application>
-  <component name="PhpAutoImport" auto_import_from_global_scope="true" auto_import_file_scope="true" />
+  <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/usr/local/php5/bin/php" id="3a1d3abc-3d4d-4e26-b200-987262f67d8d" name="PHP" debugger_id="php.debugger.XDebug" />
