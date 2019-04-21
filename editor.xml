@@ -4,7 +4,4 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="BIDI_TEXT_DIRECTION" value="LTR" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="qualificationType" value="On collisions" />
-  </component>
 </application>
