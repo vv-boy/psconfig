@@ -81,6 +81,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="ScrollFromSource">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
