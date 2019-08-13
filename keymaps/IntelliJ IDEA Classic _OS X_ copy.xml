@@ -92,4 +92,8 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="Stop" />
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="osmedile.intellij.stringmanip.ToLowerCaseAction">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
 </keymap>
