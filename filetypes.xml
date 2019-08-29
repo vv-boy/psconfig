@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="SmartBlockReportController" type="PLAIN_TEXT" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
+      <mapping ext="2019-08-29-10" type="PLAIN_TEXT" />
+      <mapping ext="2019-08-29-14" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="2019-08-28-15" type="PLAIN_TEXT" />
       <mapping ext="2019-08-28-10" type="PLAIN_TEXT" />
