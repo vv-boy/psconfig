@@ -5,6 +5,7 @@
       <mapping pattern="SmartBlockReportController" type="PLAIN_TEXT" />
       <mapping pattern="NetAcuityGrpc" type="PLAIN_TEXT" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
+      <mapping ext="2019-09-10-15" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="2019-08-29-14" type="PLAIN_TEXT" />
