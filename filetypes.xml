@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="CapReportQuery" type="PHP" />
       <mapping pattern="AWSDynamoDB" type="PLAIN_TEXT" />
       <mapping pattern="SmartBlockReportController" type="PLAIN_TEXT" />
       <mapping pattern="NetAcuityGrpc" type="PLAIN_TEXT" />
