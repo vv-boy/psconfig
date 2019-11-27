@@ -1,7 +1,4 @@
 <code_scheme name="Default" version="173">
-  <PHPCodeStyleSettings>
-    <option name="SPACES_AROUND_ARROW" value="true" />
-  </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="RIGHT_MARGIN" value="150" />
   </codeStyleSettings>
