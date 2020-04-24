@@ -1,4 +1,8 @@
 <keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
+  <action id="ActivateCommandLineToolsConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="ActivateFavoritesToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
