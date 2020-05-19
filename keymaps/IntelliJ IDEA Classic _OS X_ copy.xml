@@ -100,6 +100,10 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="Stop" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f11" />
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="osmedile.intellij.stringmanip.ToLowerCaseAction">
     <keyboard-shortcut first-keystroke="meta l" />
