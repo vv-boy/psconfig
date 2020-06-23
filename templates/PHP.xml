@@ -52,4 +52,5 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="-" value="-&gt;" description="test" toReformat="false" toShortenFQNames="true" />
 </templateSet>
