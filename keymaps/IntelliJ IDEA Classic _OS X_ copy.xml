@@ -18,6 +18,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt o" />
+    <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 9" />
@@ -92,6 +93,7 @@
     <keyboard-shortcut first-keystroke="shift meta back_space" />
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
+  <action id="JumpToLastWindow" />
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
