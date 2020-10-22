@@ -1,0 +1,15 @@
+<templateSet group="JavaScript">
+  <template name="jexit" value="process.exit(1);" description="process.exit(1);" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="li" value="logger.info($VARKIND$);" description="logger.info();" toReformat="false" toShortenFQNames="true">
+    <variable name="VARKIND" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
