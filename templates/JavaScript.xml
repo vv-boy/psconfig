@@ -12,4 +12,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="handler" value="let logger = require('log4js').getLogger('$HANDLER$');&#10;process.env.NODE_ENV = process.env.NODE_ENV || 'staging';&#10;&#10;class $HANDLER$ {&#10;  constructor({config}) {&#10;    this.config = config;&#10;  }&#10;  async handler() {&#10;    logger.info('ok');&#10;  }&#10;}&#10;&#10;module.exports = $HANDLER$;&#10;" description="handler" toReformat="false" toShortenFQNames="true">
+    <variable name="HANDLER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
