@@ -10,6 +10,7 @@
       <mapping pattern="=" type="PLAIN_TEXT" />
       <mapping ext="2019-09-10-15" type="PLAIN_TEXT" />
       <mapping ext="2020-10-30-15-07" type="PLAIN_TEXT" />
+      <mapping ext="2020-10-29-23-08" type="PLAIN_TEXT" />
       <mapping ext="2020-10-29-23-01" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
